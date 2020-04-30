@@ -6,3 +6,4 @@ I primarily investigate topics in the area of Transportation & Logistics, Retail
 
 Stories:
 1. Energy Consumption in the Netherlands
+2. Simple ARIMA calculations for a demo for the business
